@@ -60,7 +60,7 @@ const Dashboard = () => {
                 </h1>
                <div className="flex md:gap-3 gap-2 mt-2">
                  <h1 className="text-white text-[10px] font-medium ">
-                User-Name: <br /> <span className="text-gray-400 text-[7px] ">
+                User-name: <br /> <span className="text-gray-400 text-[7px] ">
                     {use.username}
                   </span>
                 </h1>
